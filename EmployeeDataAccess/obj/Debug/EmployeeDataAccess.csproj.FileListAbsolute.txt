@@ -1,0 +1,10 @@
+D:\Kudvenkat Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\Kudvenkat Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\Kudvenkat Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\Kudvenkat Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\Kudvenkat Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Kudvenkat Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\Kudvenkat Web API\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Kudvenkat Web API\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+D:\Kudvenkat Web API\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\Kudvenkat Web API\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
